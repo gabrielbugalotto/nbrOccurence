@@ -1,0 +1,24 @@
+{
+  "name": "nbroccurence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielbugalotto/nbrOccurence.git"
+  },
+  "keywords": [
+    "string",
+    "contains",
+    "substring"
+  ],
+  "author": "cycoflex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielbugalotto/nbrOccurence/issues"
+  },
+  "homepage": "https://github.com/gabrielbugalotto/nbrOccurence#readme"
+}
